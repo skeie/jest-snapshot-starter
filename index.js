@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const path = require('path'), fs = require('fs');
 const { generateFile } = require('./generateFile');
 
